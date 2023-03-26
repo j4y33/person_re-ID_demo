@@ -1,0 +1,7 @@
+md5: d75b953d4fe0736c4dfb924096a8569b
+outs:
+- md5: d73369b062de601b85d4fbd3045ba7a2
+  path: osnet_ain_x1_0_msmt17_256x128_amsgrad_ep50_lr0.0015_coslr_b64_fb10_softmax_labsmth_flip_jitter.pth
+  cache: true
+  metric: false
+  persist: false

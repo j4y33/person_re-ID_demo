@@ -1,0 +1,7 @@
+md5: 1784b77c36b0050142f8a539428b0ccb
+outs:
+- md5: 59008b94afafe5761b24253f18d3a9fc
+  path: cascade_rcnn_r50_fpn_1x_20190501-3b6211ab.pth
+  cache: true
+  metric: false
+  persist: false

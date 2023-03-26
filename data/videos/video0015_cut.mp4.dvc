@@ -1,0 +1,7 @@
+md5: 97d5b1aa7e23ffaab0404123aa18b947
+outs:
+- md5: 3f4e3ef887f0f09d778f448b74271e6c
+  path: video0015_cut.mp4
+  cache: true
+  metric: false
+  persist: false

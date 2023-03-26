@@ -1,0 +1,2 @@
+git+ssh://git@github.com/KaiyangZhou/deep-person-reid.git
+git+ssh://git@github.com/open-mmlab/mmdetection.git
